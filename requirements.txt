@@ -1,0 +1,16 @@
+psutil
+GPUtil
+scikit-learn
+matplotlib
+ipywidgets
+pandas
+plotly
+numpy
+notebook
+IPython
+psutil
+pandas
+ipywidgets
+matplotlib
+plotly
+google-generativeai   # optional (only if Gemini suggestions enabled)
