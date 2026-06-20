@@ -1,6 +1,6 @@
 # 🌱 EcoML – CO₂ + GPU Aware Machine Learning Tracker
 
-⚡ *Real-time CO₂, Energy, CPU/GPU Utilization & Hardware Recommendations directly inside Jupyter Notebook.*  
+⚡ *Real-time CO₂, Energy, CPU/GPU Utilization & Hardware Recommendations directly inside Jupyter Notebook.*
 📦 pip install ecoml → *1 line activation → Live performance + emissions pills in output*
 
 ---
